@@ -16,7 +16,7 @@ def load_library(file_path)
     meaning
   end
   
-  hash = {
+  {
     :get_meaning => {
       japanese_emoticons[0] => meanings[0],
       japanese_emoticons[1] => meanings[1],
